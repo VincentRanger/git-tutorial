@@ -1,3 +1,3 @@
 console.log('config.js')
 console.log('version 4')
-sfssd
+console.log('part 1 done')
